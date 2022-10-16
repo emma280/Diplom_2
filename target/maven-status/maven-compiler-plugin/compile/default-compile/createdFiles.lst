@@ -1,0 +1,10 @@
+client\UserClient.class
+client\OrderClient.class
+model\UserToken.class
+model\RefreshUserToken.class
+Utills\UserGenerator.class
+model\Ingredient.class
+model\UserCredentials.class
+client\StellarBurgersRestClient.class
+model\Order.class
+model\User.class
